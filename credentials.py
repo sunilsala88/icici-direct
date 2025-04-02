@@ -1,0 +1,5 @@
+acc_pass = ""
+totp_key = ""
+acc_id = ""
+api_key = ""
+secret_key= ""
